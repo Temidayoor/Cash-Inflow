@@ -1,0 +1,8 @@
+[31-Oct-2020 01:05:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/adminprotergia/public_html/penl/applications/financecontrol/cashinflow/manage_cashinflow.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/adminprotergia/public_html/penl/applications/financecontrol/cashinflow/manage_cashinflow.php on line 72
+[31-Oct-2020 01:09:44 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home/adminprotergia/public_html/penl/applications/financecontrol/cashinflow/manage_cashinflow.php:72
+Stack trace:
+#0 {main}
+  thrown in /home/adminprotergia/public_html/penl/applications/financecontrol/cashinflow/manage_cashinflow.php on line 72
